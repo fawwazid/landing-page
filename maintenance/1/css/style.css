@@ -1,0 +1,23 @@
+/* 
+* Copyright © 2021 Abdullah Fawwaz Qudamah.
+* Licensed under MIT.
+*/
+@import url("https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:ital,wght@1,700&family=Kanit:wght@900&display=swap");
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to bottom right, #00b4d8, #0496ff);
+}
+
+.title-maintenance {
+    color: #fff;
+    font-family: "Kanit", sans-serif;
+    line-height: 1em;
+    text-shadow: 0 1px 0 #e09797, 0 2px 0 #e28989, 0 3px 0 #e28282,
+        0 4px 0 #d28a8a, 0 5px 0 #cf8383, 0 6px 0 #cd7c7c, 0 7px 0 #ca7474,
+        0 8px 0 #c76d6d;
+}
+.desc-maintenance {
+    font-family: "Averia Serif Libre", cursive;
+}
